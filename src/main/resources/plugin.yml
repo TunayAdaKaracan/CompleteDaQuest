@@ -1,0 +1,5 @@
+name: CompleteDaQuest
+version: '${project.version}'
+main: dev.kutuptilkisi.completedaquest.CompleteDaQuest
+commands:
+  quest:
